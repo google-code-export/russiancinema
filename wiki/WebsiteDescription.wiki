@@ -10,4 +10,4 @@ Add your content here.
   * _/index.php_ - empty, includes _template.php_
   * _/template.php_ - 
   * _vars.php_ -
-  * [_/StarCMS/_] 
+  * [_StarCMS_] 
