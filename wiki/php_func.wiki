@@ -3,3 +3,4 @@
 = php_func =
 
   * _/connection_utf8.php_
+  * _/db.php_ - db conn string
