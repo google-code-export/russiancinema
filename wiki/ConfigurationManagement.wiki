@@ -6,7 +6,7 @@
   * russiancinema.ru
   * /home/seance/www/site2
   * ftp_seance_3
-  * БД сайта russiancinema.ru - dbu_seance_2
+  * БД - dbu_seance_2
   * user - db_seance_2
 
 
@@ -14,5 +14,5 @@
   * test.russiancinema.ru
   * /home/seance/www/site8
   * ftp_seance_9
-  * БД сайта russiancinema.ru - dbu_seance_2
+  * БД - dbu_seance_7
   * user - dbu_seance_6 
