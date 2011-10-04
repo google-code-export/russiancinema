@@ -1,0 +1,6 @@
+#summary CM.
+
+= Configuration Management =
+
+  * test database
+  * test website
