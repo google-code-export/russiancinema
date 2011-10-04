@@ -2,5 +2,11 @@
 
 = Configuration Management =
 
-  * test database
-  * test website
+== основной сайт russiancinema.ru ==
+  * /home/seance/www/site2
+  * ftp_seance_3
+
+
+== testbed для разработки новой функциональности russiancinema.ru ==
+  * test.russiancinema.ru
+  * ff
