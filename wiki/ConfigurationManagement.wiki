@@ -3,10 +3,12 @@
 = Configuration Management =
 
 == основной сайт russiancinema.ru ==
+  * russiancinema.ru
   * /home/seance/www/site2
   * ftp_seance_3
 
 
 == testbed для разработки новой функциональности russiancinema.ru ==
   * test.russiancinema.ru
-  * ff
+  * /home/seance/www/site8
+  * ftp_seance_9
