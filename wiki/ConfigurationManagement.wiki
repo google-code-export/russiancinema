@@ -19,3 +19,4 @@
 
 == PeterHost ==
   * SSH [http://peterhost.ru/wiki/SSH/]
+  * команды UNIX [http://forum.ubuntu.ru/index.php?topic=14535.0]
