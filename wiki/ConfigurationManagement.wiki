@@ -21,3 +21,4 @@
   * SSH [http://peterhost.ru/wiki/SSH/]
   * команды UNIX [http://forum.ubuntu.ru/index.php?topic=14535.0]
   * консольные команды для администрированя mysql сервера [http://vds-admin.ru/mysql/administrirovanie-mysql-iz-komandnoi-stroki]
+  * mysql Commands [http://dev.mysql.com/doc/refman/5.0/en/mysql-commands.html]
