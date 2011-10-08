@@ -16,3 +16,6 @@
   * ftp_seance_9
   * БД - dbu_seance_7
   * user - dbu_seance_6 
+
+== PeterHost ==
+  * SSH [http://peterhost.ru/wiki/SSH/]
