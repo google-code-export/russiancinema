@@ -23,8 +23,8 @@
   * консольные команды для администрированя mysql сервера [http://vds-admin.ru/mysql/administrirovanie-mysql-iz-komandnoi-stroki]
   * mysql Commands [http://dev.mysql.com/doc/refman/5.0/en/mysql-commands.html]
 
-total size: 10882210 / 10627 Mb <br>
-total www: 10603964 / 10355 Mb
+total size: 11221328 / 10958 Mb <br>
+total www: 10963520 / 10706 Mb
   * /home/seance/www/site1/ 4153330 / 4055 Mb seance.ru
 <br>
   * /home/seance/www/site2/ 4966952 / 4850 Mb russiancinema.ru
@@ -36,4 +36,4 @@ total www: 10603964 / 10355 Mb
   * /home/seance/www/site5/ 19434 / 19 Mb anton.seance.ru
   * /home/seance/www/site6/ 14638 / 14.3 Mb new.seance.ru
   * /home/seance/www/site7/ 1448208 / 1414 Mb files.seance.ru
-  * /home/seance/www/site8/ 6 test.russiancinema.ru
+  * /home/seance/www/site8/ 359562 / 351 Mb test.russiancinema.ru
