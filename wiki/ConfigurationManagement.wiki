@@ -26,14 +26,15 @@
 total size: 11221328 / 10958 Mb <br>
 total www: 10963520 / 10706 Mb
   * /home/seance/www/site1/ 4153330 / 4055 Mb seance.ru
-<br>
   * /home/seance/www/site2/ 4966952 / 4850 Mb russiancinema.ru
-  * /home/seance/www/site2/public_html/StarCMS/ 357616 / 349 Mb
-  * /home/seance/www/site2/public_html/img/ 4206520 / 4108 Mb
-<br>
   * /home/seance/www/site3/ 10 3.seance.z8.ru
   * /home/seance/www/site4/ 1384 / 1.4 Mb vepsian.ru
   * /home/seance/www/site5/ 19434 / 19 Mb anton.seance.ru
   * /home/seance/www/site6/ 14638 / 14.3 Mb new.seance.ru
   * /home/seance/www/site7/ 1448208 / 1414 Mb files.seance.ru
   * /home/seance/www/site8/ 359562 / 351 Mb test.russiancinema.ru
+
+<br>
+
+  * /home/seance/www/site2/public_html/StarCMS/ 357616 / 349 Mb
+  * /home/seance/www/site2/public_html/img/ 4206520 / 4108 Mb
