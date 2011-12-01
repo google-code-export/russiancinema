@@ -48,6 +48,12 @@ Changed files:
 {{{
 Database changes:
 
+e_depts_texts
+5	text_header	text	cp1251_general_ci		Да	NULL
+7	text_phrase	text	cp1251_general_ci		Да	NULL
+8	text_source	text	cp1251_general_ci		Да	NULL
+9	tag_id	int(10)			Да	NULL
+
 CREATE TABLE IF NOT EXISTS `e_texts_tags` (
   `text_id` int(10) unsigned NOT NULL default '0',
   `tag_id` int(10) unsigned NOT NULL default '0',
