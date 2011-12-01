@@ -4,7 +4,7 @@
 
 Features:
   * Списки “Фильмы” и “ Персоналии” - Issue 2, Issue 3, Issue 4
-  * Страница “Фильмы >> Персоны” - Issue 5, Issue, 6, Issue 7, Issue 8
+  * Страница “Фильмы >> Персоны” - Issue 5, Issue 6, Issue 7, Issue 8
   * Страница “Персоналии >> Фильмы” - Issue 10, Issue 12
 
 {{{
