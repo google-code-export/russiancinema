@@ -14,6 +14,7 @@ Features:
   * Сделать красную кнопку и инструкцию для выгрузки таблицы в Exel. - Issue 44
   * название жанра - Issue 46
   * новый набор категорий для текстов
+  * типограф (http://www.artlebedev.ru/tools/typograf/about/) 
 
 Declined features:
   * Issue 9, Issue 13
