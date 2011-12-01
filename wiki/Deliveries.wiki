@@ -19,6 +19,11 @@ Declined features:
 
 {{{
 Changed files:
+  * [new] StarCMS/i/excel.gif
+  * [new] StarCMS/i/handle_2.png
+  * [new] StarCMS/i/save_button.png
+  * [new] StarCMS/js/lists/*
+  * [new] StarCMS/js/admin.js
   * [upd] StarCMS/enc.php
   * [new] StarCMS/enc_status.php
   * [new] StarCMS/enc_status_all_movies.php
@@ -27,4 +32,7 @@ Changed files:
   * [upd] StarCMS/main.php
   * [upd] StarCMS/persons_movies.php
   * [new] StarCMS/service.php
+  * [new] StarCMS/texts.php
+  * [upd] StarCMS/xp_add_text.php
+
 }}}
