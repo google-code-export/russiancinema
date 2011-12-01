@@ -24,6 +24,7 @@ Changed files:
   * [new] JSCal2-1.9/ *
   * [new] StarCMS/i/application_osx_edit.png
   * [new] StarCMS/i/excel.gif
+  * [new] StarCMS/i/handle.png
   * [new] StarCMS/i/handle_2.png
   * [new] StarCMS/i/save_button.png
   * [new] StarCMS/js/lists/ *
