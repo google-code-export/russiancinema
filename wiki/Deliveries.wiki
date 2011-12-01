@@ -27,6 +27,7 @@ Changed files:
   * [new] StarCMS/js/admin.js
   * [upd] StarCMS/style/1.css
   * [upd] StarCMS/style/lists.css
+  * [upd] StarCMS/tiny_mce/ *
   * [upd] StarCMS/enc.php
   * [new] StarCMS/enc_status.php
   * [new] StarCMS/enc_status_all_movies.php
