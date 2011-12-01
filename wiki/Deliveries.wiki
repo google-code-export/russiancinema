@@ -2,8 +2,8 @@
 
 = Delivery 2011-12-01 =
 
-Changed files:
-  * [upd] StarCMS/main.php
+Features:
+  * Списки “Фильмы” и “ Персоналии” - Issue 2, Issue 3, Issue 4
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
 
