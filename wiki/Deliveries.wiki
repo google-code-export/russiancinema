@@ -19,13 +19,14 @@ Declined features:
 
 {{{
 Changed files:
+  * [new] JSCal2-1.9/ *
   * [new] StarCMS/i/excel.gif
   * [new] StarCMS/i/handle_2.png
   * [new] StarCMS/i/save_button.png
   * [new] StarCMS/js/lists/ *
   * [new] StarCMS/js/admin.js
-  * [new] StarCMS/JSCal2-1.9/ *
-
+  * [upd] StarCMS/style/1.css
+  * [upd] StarCMS/style/lists.css
   * [upd] StarCMS/enc.php
   * [new] StarCMS/enc_status.php
   * [new] StarCMS/enc_status_all_movies.php
