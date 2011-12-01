@@ -48,6 +48,12 @@ Changed files:
 {{{
 Database changes:
 
+e_movies
+24	sys_comment	varchar(255)	cp1251_general_ci		Да	NULL
+
+e_persons
+23	sys_comment	varchar(500)	cp1251_general_ci		Да	NULL
+
 e_depts_texts
 5	text_header	text	cp1251_general_ci		Да	NULL
 7	text_phrase	text	cp1251_general_ci		Да	NULL
