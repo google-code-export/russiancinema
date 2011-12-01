@@ -30,8 +30,8 @@ Changed files:
   * [new] StarCMS/samples/russiancinema_films_2011-10-23.zip
   * [new] StarCMS/samples/russiancinema_persons_2011-10-23.zip
   * [upd] StarCMS/style/1.css
-  * [upd] StarCMS/style/lists.css
-  * [upd] StarCMS/tiny_mce/ *
+  * [new] StarCMS/style/lists.css
+  * [new] StarCMS/tiny_mce/ *
   * [upd] StarCMS/enc.php
   * [new] StarCMS/enc_status.php
   * [new] StarCMS/enc_status_all_movies.php
@@ -40,7 +40,7 @@ Changed files:
   * [upd] StarCMS/main.php
   * [upd] StarCMS/persons_movies.php
   * [new] StarCMS/service.php
-  * [new] StarCMS/texts.php
+  * [upd] StarCMS/texts.php
   * [upd] StarCMS/xp_add_text.php
 
 }}}
