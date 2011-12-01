@@ -42,5 +42,14 @@ Changed files:
   * [new] StarCMS/service.php
   * [upd] StarCMS/texts.php
   * [upd] StarCMS/xp_add_text.php
+}}}
 
+{{{
+Database changes:
+
+CREATE TABLE IF NOT EXISTS `e_texts_tags` (
+  `text_id` int(10) unsigned NOT NULL default '0',
+  `tag_id` int(10) unsigned NOT NULL default '0',
+  KEY `texts_tags_id` (`text_id`,`tag_id`)
+)
 }}}
