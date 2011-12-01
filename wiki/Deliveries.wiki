@@ -19,9 +19,10 @@ Declined features:
 
 {{{
 Changed files:
-  * [upd] StarCMS/main.php
   * [upd] StarCMS/enc.php
   * [new] StarCMS/enc_status.php
   * [new] StarCMS/enc_status_all_movies.php
   * [new] StarCMS/enc_status_all_pers.php
+  * [upd] StarCMS/header.php
+  * [upd] StarCMS/main.php
 }}}
