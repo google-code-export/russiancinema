@@ -25,4 +25,6 @@ Changed files:
   * [new] StarCMS/enc_status_all_pers.php
   * [upd] StarCMS/header.php
   * [upd] StarCMS/main.php
+  * [upd] StarCMS/persons_movies.php
+  * [new] StarCMS/service.php
 }}}
