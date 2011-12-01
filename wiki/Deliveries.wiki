@@ -1,0 +1,15 @@
+#summary Deliveries
+
+= Delivery 2011-12-01 =
+
+Changed files:
+  * [upd] StarCMS/main.php
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+{{{
+Changed files:
+  * [upd] StarCMS/main.php
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+}}}
