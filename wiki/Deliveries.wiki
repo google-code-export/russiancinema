@@ -20,6 +20,8 @@ Declined features:
 {{{
 Changed files:
   * [upd] StarCMS/main.php
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * [upd] StarCMS/enc.php
+  * [new] StarCMS/enc_status.php
+  * [new] StarCMS/enc_status_all_movies.php
+  * [new] StarCMS/enc_status_all_pers.php
 }}}
