@@ -57,7 +57,6 @@ e_persons
 
 e_depts_texts
 5	text_header	text	cp1251_general_ci		Да	NULL
-7	text_phrase	text	cp1251_general_ci		Да	NULL
 8	text_source	text	cp1251_general_ci		Да	NULL
 9	tag_id	int(10)			Да	NULL
 
