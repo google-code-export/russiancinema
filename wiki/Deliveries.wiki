@@ -10,9 +10,10 @@ Features:
 {{{
 Changed files:
   * [upd] StarCMS/js/admin.js
-  * [upd] StarCMS/texts.php
   * [upd] StarCMS/style/1.css
   * [upd] StarCMS/style/lists.css
+  * [upd] StarCMS/service.php
+  * [upd] StarCMS/texts.php
 }}}
 
 {{{
