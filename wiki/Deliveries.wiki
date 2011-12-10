@@ -9,12 +9,16 @@ Features:
 
 {{{
 Changed files:
+  * [upd] StarCMS/js/admin.js
   * [upd] StarCMS/texts.php
+  * [upd] StarCMS/style/1.css
+  * [upd] StarCMS/style/lists.css
 }}}
 
 {{{
 Database changes:
-  *
+  * e_depts_texts: 
+12	text_source_url	varchar(300)	cp1251_general_ci		Да	NULL
 }}}
 
 = Delivery 2011-12-01 =
