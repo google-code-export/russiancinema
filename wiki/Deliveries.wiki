@@ -1,5 +1,22 @@
 #summary Deliveries
 
+= Delivery 2011-12-10 =
+
+Features:
+  * увеличена ширина контролов редактирования текста
+  * добавлено поле "Источник (URL)"
+  * добавлены 2 категории текстов: "прямая речь", "о фильмах"
+
+{{{
+Changed files:
+  * [upd] StarCMS/texts.php
+}}}
+
+{{{
+Database changes:
+  *
+}}}
+
 = Delivery 2011-12-01 =
 
 Features:
