@@ -5,3 +5,4 @@
   * movies :: image gallery :: movie have no images or video
   * movies :: tests :: tabs :: right tab 
   * movies :: tests :: tabs :: selected tab should cover the line
+  * movies :: tests :: Вся критика (5) | Все тексты (2375)
