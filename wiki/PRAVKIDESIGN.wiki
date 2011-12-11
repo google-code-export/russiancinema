@@ -1,8 +1,10 @@
 #summary One-sentence summary of this page.
 
-  * movies :: image gallery :: < > 
-  * movies :: image gallery :: pop up navigation
-  * movies :: image gallery :: movie have no images or video
-  * movies :: texts :: tabs :: right tab 
-  * movies :: texts :: tabs :: selected tab should cover the line
-  * movies :: texts :: Вся критика (5) | Все тексты (2375)
+  * movie :: image gallery :: < > 
+  * movie :: image gallery :: pop up navigation
+  * movie :: image gallery :: movie have no images or video
+  * movie :: texts :: tabs :: right tab 
+  * movie :: texts :: tabs :: selected tab should cover the line
+  * movie :: texts :: Вся критика (5) | Все тексты (2375)
+
+  * person :: нет раздела где участвовал
