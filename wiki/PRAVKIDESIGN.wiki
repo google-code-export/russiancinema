@@ -7,4 +7,4 @@
   * movie :: texts :: tabs :: selected tab should cover the line
   * movie :: texts :: Вся критика (5) | Все тексты (2375)
 
-  * person :: нет раздела где участвовал
+  * person :: размер фотогалереи
