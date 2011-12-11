@@ -3,3 +3,5 @@
   * movies :: image gallery :: < > 
   * movies :: image gallery :: pop up navigation
   * movies :: image gallery :: movie have no images or video
+  * movies :: tests :: tabs :: right tab 
+  * movies :: tests :: tabs :: selected tab should cover the line
