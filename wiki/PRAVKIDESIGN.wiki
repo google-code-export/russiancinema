@@ -3,6 +3,6 @@
   * movies :: image gallery :: < > 
   * movies :: image gallery :: pop up navigation
   * movies :: image gallery :: movie have no images or video
-  * movies :: tests :: tabs :: right tab 
-  * movies :: tests :: tabs :: selected tab should cover the line
-  * movies :: tests :: Вся критика (5) | Все тексты (2375)
+  * movies :: texts :: tabs :: right tab 
+  * movies :: texts :: tabs :: selected tab should cover the line
+  * movies :: texts :: Вся критика (5) | Все тексты (2375)
