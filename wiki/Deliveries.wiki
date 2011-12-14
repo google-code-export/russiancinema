@@ -1,5 +1,48 @@
 #summary Deliveries
 
+= Delivery 2011-12-15 (для показа) =
+
+Features:
+  * новый дизайн
+
+Known issues:
+  * 11) стрелки в галерее превью -> осталось сделать листинг
+  * 12) превью больших картинок подгонялись по меньшей стороне
+  * 17) фотографию с паспорта фильма, тоже можно увеличивать
+  * 18) два баннера в сайдбаре -- ждём Илью
+  * 20) кнопки для фэйсбука
+
+{{{
+Changed files:
+  * [new] css/rc_style.css
+  * [new] js/ruscinema.js
+// [new] js/jquery-1.7.1.js
+  * [new] images/banners/ads_01_275_275.png
+  * [new] images/banners/ads_02_275_275.png
+  * [new] images/banners/banner_1000_101.png
+  * [new] images/content/numbers_border_69_18.png
+  * [new] images/layout/icons/close.png
+  * [new] images/layout/numbers/ *
+  * [new] images/layout/ *
+
+  * [new] images/layout/film_search_panel_727_95.png
+
+  * [new] php/common.php
+  * [new] template/layout/footer.inc.htm
+  * [new] template/layout/random_gallery_td_element.inc.htm
+  * [new] template/sections/section_0.htm
+  * [new] template/sections/section_1.htm
+  * [new] template/sections/section_2.htm
+
+  * [upd] StarCMs/php_func/connection_utf8.php
+
+}}}
+
+{{{
+Database changes:
+  * no database changes
+}}}
+
 = Delivery 2011-12-10 =
 
 Features:
