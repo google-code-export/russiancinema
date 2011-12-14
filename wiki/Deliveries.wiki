@@ -1,6 +1,6 @@
 #summary Deliveries
 
-= Delivery 2011-12-15 (для показа) =
+= Delivery 2011-12-15 (redesign) =
 
 Features:
   * новый дизайн
@@ -38,6 +38,8 @@ Changed files:
 
   * [new] template/layout/*
   * [new] template/sections/*
+
+  * [upd] index.php
 
 }}}
 
