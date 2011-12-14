@@ -14,27 +14,30 @@ Known issues:
 
 {{{
 Changed files:
-  * [new] css/rc_style.css
-  * [new] js/ruscinema.js
-// [new] js/jquery-1.7.1.js
-  * [new] images/banners/ads_01_275_275.png
-  * [new] images/banners/ads_02_275_275.png
-  * [new] images/banners/banner_1000_101.png
-  * [new] images/content/numbers_border_69_18.png
-  * [new] images/layout/icons/close.png
-  * [new] images/layout/numbers/ *
-  * [new] images/layout/ *
 
-  * [new] images/layout/film_search_panel_727_95.png
+  * [new] css/jquery-ui_ruscinema.css
+  * [new] css/rc_style.css
+  * [new] css/rc_style_mov_pers_page.css
+  * [new] css/rc_style_org_fest_gloss_about.css
+  * [new] css/rc_style_search.css
+
+  * [new] images/banners/*
+  * [new] images/content/*
+  * [new] images/layout/dummies/*
+  * [new] images/layout/icons/*
+  * [new] images/layout/numbers/*
+
+  * [new] js/ruscinema.js
 
   * [new] php/common.php
-  * [new] template/layout/footer.inc.htm
-  * [new] template/layout/random_gallery_td_element.inc.htm
-  * [new] template/sections/section_0.htm
-  * [new] template/sections/section_1.htm
-  * [new] template/sections/section_2.htm
+  * [new] php/locale.ru.php
+  * [new] php/queries.php
+  * [new] php/service.php
 
   * [upd] StarCMs/php_func/connection_utf8.php
+
+  * [new] template/layout/*
+  * [new] template/sections/*
 
 }}}
 
