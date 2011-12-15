@@ -18,6 +18,7 @@ Changed files:
   * [upd] css/rc_style.css
   * [upd] template/sections/section_0.htm
   * [upd] php/common.php
+  * [upd] template/section/section_1_1.htm
 
 }}}
 
