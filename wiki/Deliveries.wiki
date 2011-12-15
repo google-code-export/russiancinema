@@ -1,6 +1,6 @@
 #summary Deliveries
 
-= Delivery 2011-12-15 (20:00) =
+= Delivery 2011-12-15 (20:40) =
 
 Features:
   * Не Трофинков, а Трофименков
