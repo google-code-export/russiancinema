@@ -12,6 +12,7 @@ Features:
 Changed files:
 
   * [upd] template/sections/section_0.htm
+  * [upd] php/common.php
 
 }}}
 
