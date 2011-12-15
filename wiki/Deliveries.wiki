@@ -1,5 +1,23 @@
 #summary Deliveries
 
+= Delivery 2011-12-15 (20:00) =
+
+Features:
+  * Не Трофинков, а Трофименков
+  * 
+
+{{{
+Changed files:
+
+  * [new] css/jquery-ui_ruscinema.css
+
+}}}
+
+{{{
+Database changes:
+  * no database changes
+}}}
+
 = Delivery 2011-12-15 (redesign) =
 
 Features:
