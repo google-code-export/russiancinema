@@ -12,8 +12,8 @@ Features:
   * убраны ромбы с вопросами в заголовках картинок на первой странице, добавлены ...
   * убраны пустые картинки в случайной галерее на первой странице. Они были связаны с пробелами в названии файла фотографии.
   * вырезал теги из текстов, как это делалось раньше. Про этом, соответственно, пропали HEADER & SOURCE, прописанные в нем
-http://russiancinema.ru/template.php?dept_id=3&e_dept_id=1&e_person_id=18 
-http://test.russiancinema.ru/index.php?e_dept_id=1&e_person_id=18
+  # http://russiancinema.ru/template.php?dept_id=3&e_dept_id=1&e_person_id=18 
+  # http://test.russiancinema.ru/index.php?e_dept_id=1&e_person_id=18
 
 {{{
 Changed files:
