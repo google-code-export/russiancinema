@@ -4,12 +4,13 @@
 
 Features:
   * Не Трофинков, а Трофименков
-  * 
+  * названия 2-х фильмов на первой странице сделаны однотипными
+  * поменял местами 2 фильма на первой странице
 
 {{{
 Changed files:
 
-  * [new] css/jquery-ui_ruscinema.css
+  * [upd] template/sections/section_0.htm
 
 }}}
 
