@@ -12,6 +12,7 @@ Features:
 {{{
 Changed files:
 
+  * [upd] css/rc_style.css
   * [upd] template/sections/section_0.htm
   * [upd] php/common.php
 
