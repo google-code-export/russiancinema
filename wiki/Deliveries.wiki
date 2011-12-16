@@ -1,5 +1,23 @@
 #summary Deliveries
 
+= Delivery ??? (???) =
+
+Features:
+  *  данные графы про совместную работу
+
+
+{{{
+Changed files:
+
+  * [upd] css/rc_style.css
+
+}}}
+
+{{{
+Database changes:
+  * no database changes
+}}}
+
 = Delivery 2011-12-15 (20:40) =
 
 Features:
