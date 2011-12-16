@@ -10,7 +10,8 @@ Features:
 {{{
 Changed files:
 
-  * [upd] css/rc_style.css
+  * [upd] css/rc_style_mov_pers_page.css
+  * [upd] php/common.php
 
 }}}
 
