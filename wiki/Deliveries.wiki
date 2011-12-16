@@ -9,8 +9,9 @@ Features:
 
 {{{
 Changed files:
-
+  * [upd] css/rc_style.css
   * [upd] css/rc_style_mov_pers_page.css
+  * [new] images/banners/banner_top_1000_100.png
   * [upd] php/common.php
 
 }}}
