@@ -5,11 +5,13 @@
 Features:
   * изменены 2 фильма на первой странице
   * заменил широкий баннер вверху страницы
+  * заменил баннер Энциклопедии
 
 {{{
 Changed files:
   * [upd] css/rc_style.css
   * [new] images/banners/knigi_ne_dlia_vseh_1000_100.png
+  * [new] images/banners/be_275_275.jpg
   * [new] images/content/glav1_1_p.png
   * [new] images/content/glav2_1_p.png
   * [upd] template/sections/section_0.htm
