@@ -1,5 +1,26 @@
 #summary Deliveries
 
+= Delivery 2011-12-20 (22-20) =
+
+Features:
+  * изменены 2 фильма на первой странице
+  * заменил широкий баннер вверху страницы
+
+{{{
+Changed files:
+  * [upd] css/rc_style.css
+  * [new] images/banners/knigi_ne_dlia_vseh_1000_100.png
+  * [new] images/content/glav1_1_p.png
+  * [new] images/content/glav2_1_p.png
+  * [upd] template/sections/section_0.htm
+  * [upd] index.php
+}}}
+
+{{{
+Database changes:
+  * no database changes
+}}}
+
 = Delivery 2011-12-16 (23-30) =
 
 Features:
