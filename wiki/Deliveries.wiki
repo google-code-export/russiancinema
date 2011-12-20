@@ -1,6 +1,6 @@
 #summary Deliveries
 
-= Delivery 2011-12-20 (22-20) =
+= Delivery 2011-12-20 (22-45) =
 
 Features:
   * изменены 2 фильма на первой странице
