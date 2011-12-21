@@ -1,5 +1,21 @@
 #summary Deliveries
 
+= Delivery 2011-12-?? (??-??) =
+
+Features:
+  * Issue 50
+
+{{{
+Changed files:
+  * [upd] css/rc_style_mov_pers_page.css
+  * [upd] template/sections/section_1_1.htm
+}}}
+
+{{{
+Database changes:
+  * no database changes
+}}}
+
 = Delivery 2011-12-20 (22-45) =
 
 Features:
