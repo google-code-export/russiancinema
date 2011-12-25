@@ -6,6 +6,7 @@ Features:
   * Issue 50
   * Issue 52
   * Issue 82
+  * Issue 59
 
 {{{
 Changed files:
@@ -19,7 +20,9 @@ Changed files:
 
 {{{
 Database changes:
-  * no database changes
+  UPDATE `e_persons_movies` 
+  SET `post_id` = 5
+  WHERE `post_id` = 31
 }}}
 
 = Delivery 2011-12-20 (22-45) =
