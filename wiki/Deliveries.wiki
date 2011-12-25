@@ -8,12 +8,15 @@ Features:
   * Issue 82
   * Issue 59
   * Issue 68
+  * Issue 57
 
 {{{
 Changed files:
   * [upd] css/rc_style.css
   * [upd] css/rc_style_mov_pers_page.css
   * [new] images/banners/knigi_ne_dlia_vseh_1000_100_2.jpg
+  * [new] images/layout/dummies/150_200_bor.png
+  * [new] images/layout/dummies/204_142_bor.png
   * [upd] template/sections/section_1_1.htm
   * [upd] php/common.php
   * [upd] php/service.php
