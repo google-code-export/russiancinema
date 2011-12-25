@@ -14,6 +14,7 @@ Features:
   * Issue 80
   * Issue 78
   * Issue 58
+  * Issue 76
 
 {{{
 Changed files:
