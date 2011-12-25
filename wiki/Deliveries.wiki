@@ -10,6 +10,7 @@ Features:
   * Issue 68
   * Issue 57
   * Issue 83
+  * Issue 81
 
 {{{
 Changed files:
@@ -18,6 +19,7 @@ Changed files:
   * [new] images/banners/knigi_ne_dlia_vseh_1000_100_2.jpg
   * [new] images/layout/dummies/150_200_bor.png
   * [new] images/layout/dummies/204_142_bor.png
+  * [upd] template/layout/footer.inc.htm
   * [upd] template/sections/section_1_1.htm
   * [upd] php/common.php
   * [upd] php/service.php
