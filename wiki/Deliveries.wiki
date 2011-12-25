@@ -12,6 +12,7 @@ Features:
   * Issue 83
   * Issue 81
   * Issue 80
+  * Issue 78
 
 {{{
 Changed files:
