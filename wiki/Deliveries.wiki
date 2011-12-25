@@ -7,9 +7,11 @@ Features:
   * Issue 52
   * Issue 82
   * Issue 59
+  * Issue 68
 
 {{{
 Changed files:
+  * [upd] css/rc_style.css
   * [upd] css/rc_style_mov_pers_page.css
   * [new] images/banners/knigi_ne_dlia_vseh_1000_100_2.jpg
   * [upd] template/sections/section_1_1.htm
