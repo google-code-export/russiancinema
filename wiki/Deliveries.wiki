@@ -23,6 +23,7 @@ Changed files:
   * [upd] template/sections/section_1_1.htm
   * [upd] php/common.php
   * [upd] php/service.php
+  * [upd] php/queries.php
   * [upd] index.php
 }}}
 
