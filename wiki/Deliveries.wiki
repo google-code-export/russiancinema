@@ -9,6 +9,7 @@ Features:
   * Issue 59
   * Issue 68
   * Issue 57
+  * Issue 83
 
 {{{
 Changed files:
