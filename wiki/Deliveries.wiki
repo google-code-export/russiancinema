@@ -15,9 +15,11 @@ Features:
   * Issue 78
   * Issue 58
   * Issue 76
+  * Issue 64
 
 {{{
 Changed files:
+  * [upd] .htaccess
   * [upd] css/rc_style.css
   * [upd] css/rc_style_mov_pers_page.css
   * [new] images/banners/knigi_ne_dlia_vseh_1000_100_2.jpg
