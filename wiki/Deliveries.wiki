@@ -24,6 +24,7 @@ Changed files:
   * [upd] .htaccess
   * [upd] css/rc_style.css
   * [upd] css/rc_style_mov_pers_page.css
+  * [upd] js/ruscinema.js
   * [new] images/banners/knigi_ne_dlia_vseh_1000_100_2.jpg
   * [new] images/layout/dummies/150_200_bor.png
   * [new] images/layout/dummies/204_142_bor.png
