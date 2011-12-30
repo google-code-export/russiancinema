@@ -16,6 +16,8 @@ Features:
   * Issue 58
   * Issue 76
   * Issue 64
+  * issue 56
+  * Issue 79 - частично - подправил листалку всплывающего окна(увеличенные)
 
 {{{
 Changed files:
