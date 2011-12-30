@@ -1,6 +1,6 @@
 #summary Deliveries
 
-= Delivery 2011-12-?? (??-??) =
+= Delivery 2011-12-31 (00-55) =
 
 Features:
   * Issue 50
