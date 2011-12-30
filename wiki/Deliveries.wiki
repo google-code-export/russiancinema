@@ -26,6 +26,7 @@ Changed files:
   * [new] images/layout/dummies/150_200_bor.png
   * [new] images/layout/dummies/204_142_bor.png
   * [upd] template/layout/footer.inc.htm
+  * [new] template/layout/photo_gallery_empty_element.inc.htm
   * [upd] template/sections/section_1_1.htm
   * [upd] php/common.php
   * [upd] php/service.php
