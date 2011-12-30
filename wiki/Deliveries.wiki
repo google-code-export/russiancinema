@@ -30,6 +30,7 @@ Changed files:
   * [upd] template/layout/footer.inc.htm
   * [new] template/layout/photo_gallery_empty_element.inc.htm
   * [upd] template/sections/section_1_1.htm
+  * [upd] template/sections/section_2_1.htm
   * [upd] php/common.php
   * [upd] php/service.php
   * [upd] php/queries.php
