@@ -1,5 +1,21 @@
 #summary Deliveries
 
+= Delivery 2012-01-xx (xx-xx) =
+
+Features:
+  * 
+
+{{{
+Changed files:
+
+}}}
+
+{{{
+Database changes:
+
+}}}
+
+
 = Delivery 2011-12-31 (01-00) =
 
 Features:
