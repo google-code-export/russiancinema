@@ -1,18 +1,18 @@
 #summary Deliveries
 
-= Delivery 2012-01-xx (xx-xx) =
+= Delivery 2012-01-06 (14-00) =
 
 Features:
-  * 
+  * по запросу от Любы добавлена проверка на пустые тексты (проблема с Аксенчуком Иваном). 
 
 {{{
 Changed files:
-
+  * [upd] php/common.php
 }}}
 
 {{{
 Database changes:
-
+  * no database changes
 }}}
 
 
