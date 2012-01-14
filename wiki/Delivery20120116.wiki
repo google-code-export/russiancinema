@@ -1,0 +1,27 @@
+= Delivery 2012-01-16 (xx-xx) =
+
+Features:
+  * убран лимит в полных таблицах статуса контента (фильмы и персоналии)
+  * old version: http://russiancinema.ru/index_2011-12-15.php
+  * Issue 55
+  * Issue 72
+
+{{{
+Changed files:
+  * [upd] php/common.php
+  * [upd] php/service.php
+  * [upd] StarCMS/enc_status_all_movies.php
+  * [upd] StarCMS/enc_status_all_pers.php
+}}}
+
+{{{
+Database changes:
+  * xx
+}}}
+
+
+SELECT gc.glossary_id, g.glossary_name, COUNT(`chr_id`) 
+FROM `e_glossary_chrs` gc
+LEFT JOIN e_glossary g ON g.glossary_id = gc.glossary_id
+GROUP BY gc.glossary_id 
+ORDER BY gc.glossary_id
