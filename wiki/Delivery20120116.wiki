@@ -9,9 +9,12 @@ Features:
 {{{
 Changed files:
   * [upd] php/common.php
+  * [upd] php/locale.ru.php
   * [upd] php/service.php
   * [upd] StarCMS/enc_status_all_movies.php
   * [upd] StarCMS/enc_status_all_pers.php
+  * [new] template/sections/section_6.htm
+  * [upd] index.php
 }}}
 
 {{{
