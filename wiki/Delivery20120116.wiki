@@ -20,6 +20,7 @@ Changed files:
   * [upd] StarCMS/js/admin.js
   * [upd] StarCMS/style/1.css
   * [upd] StarCMS/service.php
+  * [new] StarCMS/xp_link_text.php
 }}}
 
 {{{
