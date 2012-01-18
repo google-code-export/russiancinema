@@ -1,4 +1,4 @@
-= Delivery 2012-01-16 (xx-xx) =
+= Delivery 2012-01-20 (xx-xx) =
 
 Features:
   * убран лимит в полных таблицах статуса контента (фильмы и персоналии)
@@ -15,6 +15,10 @@ Changed files:
   * [upd] StarCMS/enc_status_all_pers.php
   * [new] template/sections/section_6.htm
   * [upd] index.php
+  * [upd] StarCMS/persons_movies.php
+  * [upd] StarCMS/texts.php
+  * [upd] StarCMS/js/admin.js
+  * [upd] StarCMS/style/1.css
 }}}
 
 {{{
