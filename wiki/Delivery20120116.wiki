@@ -1,11 +1,18 @@
 = Delivery 2012-01-20 (xx-xx) =
 
-Features:
+===Critical:===
   * убран лимит в полных таблицах статуса контента (фильмы и персоналии)
-  * old version: http://russiancinema.ru/index_2011-12-15.php
   * Issue 55
   * Issue 72
   * Issue 91
+===High===
+  *
+===Medium===
+  * 
+===Low===
+  *
+
+  * old version: http://russiancinema.ru/index_2011-12-15.php
 
 {{{
 Changed files:
