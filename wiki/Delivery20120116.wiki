@@ -10,6 +10,7 @@
   * 
 ===Low===
   * Issue 62
+  * Issue 41
 
   * old version: http://russiancinema.ru/index_2011-12-15.php
 
