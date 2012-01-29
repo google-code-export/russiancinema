@@ -34,12 +34,15 @@ Changed files:
 
 {{{
 Database changes:
-  * xx
+  CREATE TABLE IF NOT EXISTS `e_depts_elements_texts` (
+  `text_id` int(10) unsigned NOT NULL auto_increment,
+  `dept_id` int(10) unsigned default NULL,
+  `dept_element_id` int(10) unsigned NOT NULL default '0',
+  PRIMARY KEY  (`text_id`),
+  KEY `dept_id` (`dept_id`,`dept_element_id`,`text_id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=cp1251 AUTO_INCREMENT=8583 ;
+
+INSERT INTO e_depts_elements_texts (`text_id`, `dept_id`, `dept_element_id`)
+SELECT `text_id`, `dept_id`, `dept_element_id` FROM e_depts_texts
 }}}
 
-
-SELECT gc.glossary_id, g.glossary_name, COUNT(`chr_id`) 
-FROM `e_glossary_chrs` gc
-LEFT JOIN e_glossary g ON g.glossary_id = gc.glossary_id
-GROUP BY gc.glossary_id 
-ORDER BY gc.glossary_id
