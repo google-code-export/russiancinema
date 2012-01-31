@@ -30,6 +30,7 @@ Changed files:
   * [upd] StarCMS/style/1.css
   * [upd] StarCMS/service.php
   * [new] StarCMS/xp_link_text.php
+  * [new] StarCMS/i/delete_all.gif
 }}}
 
 {{{
@@ -45,4 +46,3 @@ Database changes:
 INSERT INTO e_depts_elements_texts (`text_id`, `dept_id`, `dept_element_id`)
 SELECT `text_id`, `dept_id`, `dept_element_id` FROM e_depts_texts
 }}}
-
