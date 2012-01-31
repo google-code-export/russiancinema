@@ -32,6 +32,7 @@ Changed files:
   * [upd] StarCMS/xp_add_text.php
   * [new] StarCMS/xp_link_text.php
   * [new] StarCMS/i/delete_all.gif
+  * [new] StarCMS/i/del_un.gif
 }}}
 
 {{{
