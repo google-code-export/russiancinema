@@ -29,6 +29,7 @@ Changed files:
   * [upd] StarCMS/js/admin.js
   * [upd] StarCMS/style/1.css
   * [upd] StarCMS/service.php
+  * [upd] StarCMS/xp_add_text.php
   * [new] StarCMS/xp_link_text.php
   * [new] StarCMS/i/delete_all.gif
 }}}
