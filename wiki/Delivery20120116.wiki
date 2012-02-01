@@ -38,14 +38,15 @@ Changed files:
 
 {{{
 Database changes:
-  CREATE TABLE IF NOT EXISTS `e_depts_elements_texts` (
+CREATE TABLE IF NOT EXISTS `e_depts_elements_texts` (
   `text_id` int(10) unsigned NOT NULL auto_increment,
   `dept_id` int(10) unsigned default NULL,
   `dept_element_id` int(10) unsigned NOT NULL default '0',
-  PRIMARY KEY  (`text_id`),
+  `text_order` int(11) default '1',
   KEY `dept_id` (`dept_id`,`dept_element_id`,`text_id`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=cp1251 AUTO_INCREMENT=8583 ;
 
-INSERT INTO e_depts_elements_texts (`text_id`, `dept_id`, `dept_element_id`)
-SELECT `text_id`, `dept_id`, `dept_element_id` FROM e_depts_texts
+
+INSERT INTO e_depts_elements_texts (`text_id`, `dept_id`, `dept_element_id`,`text_order`)
+SELECT `text_id`, `dept_id`, `dept_element_id`,`text_order` FROM e_depts_texts
 }}}
