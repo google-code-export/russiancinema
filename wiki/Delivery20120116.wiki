@@ -45,7 +45,7 @@ CREATE TABLE IF NOT EXISTS `e_depts_elements_texts` (
   `dept_element_id` int(10) unsigned NOT NULL default '0',
   `text_order` int(11) default '1',
   KEY `dept_id` (`dept_id`,`dept_element_id`,`text_id`)
-) ENGINE=MyISAM  DEFAULT CHARSET=cp1251 AUTO_INCREMENT=8583 ;
+) ENGINE=MyISAM  DEFAULT CHARSET=cp1251 AUTO_INCREMENT=1 ;
 
 
 INSERT INTO e_depts_elements_texts (`text_id`, `dept_id`, `dept_element_id`,`text_order`)
@@ -56,6 +56,6 @@ CREATE TABLE IF NOT EXISTS `e_tags` (
   `tag_name` varchar(255) character set cp1251 collate cp1251_bin default NULL,
   `tag_include` tinyint(3) unsigned NOT NULL default '1',
   PRIMARY KEY  (`tag_id`)
-) ENGINE=MyISAM  DEFAULT CHARSET=cp1251 AUTO_INCREMENT=71 ;
+) ENGINE=MyISAM  DEFAULT CHARSET=cp1251 AUTO_INCREMENT=1 ;
 
 }}}
