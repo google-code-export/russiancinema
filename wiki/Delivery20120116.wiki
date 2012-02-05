@@ -1,4 +1,4 @@
-= Delivery 2012-01-20 (xx-xx) =
+= Delivery 2012-02-06 (xx-xx) =
 
 ===Critical:===
   * Issue 36 - связь подобных текстов
