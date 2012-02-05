@@ -10,6 +10,7 @@
 ===Medium===
   * Issue 53
   * Issue 105
+  * Issue 104
 ===Low===
   * Issue 62
   * Issue 41 
@@ -25,6 +26,7 @@ Changed files:
   * [upd] StarCMS/enc_status_all_movies.php
   * [upd] StarCMS/enc_status_all_pers.php
   * [new] template/sections/section_6.htm
+  * [new] template/sections/section_2_1.htm
   * [upd] index.php
   * [upd] StarCMS/persons_movies.php
   * [upd] StarCMS/texts.php
