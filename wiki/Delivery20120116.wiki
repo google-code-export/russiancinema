@@ -23,6 +23,8 @@
   * Issue 41 
   * Issue 48
 
+  * Issue 69
+
   * old version: http://russiancinema.ru/index_2011-12-15.php
 
 {{{
