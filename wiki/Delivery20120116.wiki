@@ -15,6 +15,8 @@
   * Issue 101
   * Issue 100
   * Issue 98
+
+  * Issue 94
 ===Low===
   * Issue 62
   * Issue 41 
