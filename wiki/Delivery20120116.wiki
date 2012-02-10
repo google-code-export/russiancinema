@@ -84,4 +84,9 @@ CREATE TABLE IF NOT EXISTS `e_tags` (
   PRIMARY KEY  (`tag_id`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=cp1251 AUTO_INCREMENT=1 ;
 
+
+
+Добавлено 9692 строки. 
+Идентификатор вставленной строки: 19822 ( запрос занял 0.2174 сек. )
+
 }}}
