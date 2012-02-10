@@ -53,6 +53,8 @@ Changed files:
 
   * [new] StarCMS/i/delete_all.gif
   * [new] StarCMS/i/del_un.gif
+  * [new] StarCMS/i/copy-icon.gif
+  * [new] StarCMS/i/copy-icon_un.gif
 
   * [new] StarCMS/xp_copy_text.php
   * [new] StarCMS/xp_del_e_text_all.php
