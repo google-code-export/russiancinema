@@ -29,30 +29,35 @@
 
 {{{
 Changed files:
+  * [upd] index.php
+
   * [upd] php/common.php
   * [upd] php/locale.ru.php
   * [upd] php/service.php
   * [upd] php/queries.php
+
+  * [upd] StarCMS/js/admin.js
+  * [upd] StarCMS/style/1.css
+  * [upd] StarCMS/header.php
   * [upd] StarCMS/enc.php
   * [upd] StarCMS/enc_status_all_movies.php
   * [upd] StarCMS/enc_status_all_pers.php
+  * [upd] StarCMS/persons_movies.php
+  * [upd] StarCMS/service.php
+  * [upd] StarCMS/texts.php
+  * [upd] StarCMS/xp_add_text.php
+
   * [new] template/sections/section_6.htm
   * [upd] template/sections/section_1_1.htm
   * [upd] template/sections/section_2_1.htm
-  * [upd] index.php
-  * [upd] StarCMS/persons_movies.php
-  * [upd] StarCMS/texts.php
-  * [upd] StarCMS/js/admin.js
-  * [upd] StarCMS/style/1.css
-  * [upd] StarCMS/service.php
-  * [upd] StarCMS/xp_add_text.php
-  * [upd] StarCMS/header.php
-  * [new] StarCMS/xp_link_text.php
+
   * [new] StarCMS/i/delete_all.gif
   * [new] StarCMS/i/del_un.gif
+
+  * [new] StarCMS/xp_copy_text.php
   * [new] StarCMS/xp_del_e_text_all.php
   * [new] StarCMS/xp_del_tag.php
-  * [new] StarCMS/xp_copy_text.php
+  * [new] StarCMS/xp_link_text.php
 }}}
 
 {{{
