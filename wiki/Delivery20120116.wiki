@@ -32,6 +32,7 @@ Changed files:
   * [upd] php/common.php
   * [upd] php/locale.ru.php
   * [upd] php/service.php
+  * [upd] php/queries.php
   * [upd] StarCMS/enc.php
   * [upd] StarCMS/enc_status_all_movies.php
   * [upd] StarCMS/enc_status_all_pers.php
