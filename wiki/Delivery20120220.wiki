@@ -1,13 +1,17 @@
-#summary One-sentence summary of this page.
+= Delivery 2012-02-20 (xx-xx) =
 
-= Introduction =
+===Critical:===
+===High===
+===Medium===
+===Low===
 
-Add your content here.
+{{{
+Changed files:
+
+}}}
+
+{{{
+Database changes:
 
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+}}}
