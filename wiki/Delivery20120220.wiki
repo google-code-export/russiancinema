@@ -3,11 +3,12 @@
 ===Critical:===
 ===High===
 ===Medium===
+  * Issue 103
 ===Low===
 
 {{{
 Changed files:
-
+  * [upd] php/common.php
 }}}
 
 {{{
