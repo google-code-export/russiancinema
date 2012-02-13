@@ -4,11 +4,13 @@
 ===High===
 ===Medium===
   * Issue 103
+  * Issue 100
 ===Low===
 
 {{{
 Changed files:
   * [upd] php/common.php
+  * [upd] template/layout/text_element.inc.htm
 }}}
 
 {{{
