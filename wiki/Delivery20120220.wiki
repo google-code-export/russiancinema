@@ -3,12 +3,14 @@
 ===Critical:===
 ===High===
 ===Medium===
+  * Issue 67
   * Issue 103
   * Issue 100
 ===Low===
 
 {{{
 Changed files:
+  * [upd] js/ruscinema.js
   * [upd] php/common.php
   * [upd] php/queries.php
   * [upd] template/layout/text_element.inc.htm
