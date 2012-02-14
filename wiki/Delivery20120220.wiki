@@ -10,6 +10,7 @@
 {{{
 Changed files:
   * [upd] php/common.php
+  * [upd] php/queries.php
   * [upd] template/layout/text_element.inc.htm
 }}}
 
