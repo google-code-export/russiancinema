@@ -14,6 +14,11 @@ Changed files:
   * [upd] php/common.php
   * [upd] php/queries.php
   * [upd] template/layout/text_element.inc.htm
+  * [upd] template/layout/prizes.inc.htm
+  * [upd] template/layout/footer.inc.htm
+  * [upd] template/layout/biblio.inc.htm
+  * [upd] template/sections/section_1_1.htm
+  * [upd] template/sections/section_2_1.htm
 }}}
 
 {{{
