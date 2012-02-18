@@ -1,6 +1,7 @@
 = Delivery 2012-02-20 (xx-xx) =
 
 ===Critical===
+  * Issue 60
   * Issue 65
 ===High===
 ===Medium===
