@@ -16,6 +16,7 @@ Changed files:
   * [upd] js/ruscinema.js
   * [upd] php/common.php
   * [upd] php/queries.php
+  * [upd] php/service.php
   * [upd] template/layout/text_element.inc.htm
   * [upd] template/layout/prizes.inc.htm
   * [upd] template/layout/footer.inc.htm
