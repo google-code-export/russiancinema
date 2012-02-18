@@ -1,6 +1,7 @@
 = Delivery 2012-02-20 (xx-xx) =
 
-===Critical:===
+===Critical===
+  * Issue 65
 ===High===
 ===Medium===
   * Issue 67
@@ -10,6 +11,7 @@
 
 {{{
 Changed files:
+  * [upd] index.php
   * [upd] js/ruscinema.js
   * [upd] php/common.php
   * [upd] php/queries.php
