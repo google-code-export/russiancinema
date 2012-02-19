@@ -9,12 +9,14 @@
   * Issue 67
   * Issue 93
   * Issue 103
+  * Issue 99
   * Issue 100
 ===Low===
 
 {{{
 Changed files:
   * [upd] index.php
+  * [upd] css/rc_style_mov_pers_page.css
   * [upd] js/ruscinema.js
   * [upd] php/common.php
   * [upd] php/queries.php
