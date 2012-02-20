@@ -3,7 +3,7 @@
 ===Critical===
   * Issue 60
   * Issue 65
-  * Issue 70 (in progress)
+  * Issue 70
 ===High===
 ===Medium===
   * Issue 67
