@@ -4,6 +4,7 @@
   * Issue 60
   * Issue 65
   * Issue 70 
+  * Issue 109
 ===High===
   * Issue 107 
 ===Medium===
