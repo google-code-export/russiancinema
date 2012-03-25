@@ -5,6 +5,7 @@
   * Issue 65
   * Issue 70 
   * Issue 109
+  * Issue 114 (production)
 ===High===
   * Issue 107 
 ===Medium===
