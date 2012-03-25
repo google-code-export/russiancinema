@@ -2,7 +2,7 @@
 
 ===Critical===
   * Issue 60
-  * Issue 65 (production)
+  * Issue 65 (production, mid of Feb)
   * Issue 70 
   * Issue 109
   * Issue 114 (production)
