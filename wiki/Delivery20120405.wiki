@@ -10,11 +10,11 @@
   * Issue 108
   * Issue 109
   * Issue 111
-  * Issue 112
   * Issue 114 (production, March/25)
 
 ===High===
   * Issue 107 
+  * Issue 112
 ===Medium===
   * Issue 67
   * Issue 93
