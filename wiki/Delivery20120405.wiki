@@ -6,6 +6,7 @@
   * Issue 65 (production, mid of Feb)
   * Issue 70 
   * Issue 79
+  * Issue 80
   * Issue 109
   * Issue 114 (production, March/25)
 
