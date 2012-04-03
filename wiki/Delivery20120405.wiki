@@ -17,6 +17,7 @@
   * Issue 112
 ===Medium===
   * Issue 67
+  * Issue 92
   * Issue 93
   * Issue 99
   * Issue 100
@@ -30,6 +31,7 @@
 {{{
 Changed files:
   * [upd] index.php
+  * [upd] video.php
   * [upd] css/rc_style.css
   * [upd] css/rc_style_mov_pers_page.css
   * [upd] js/ruscinema.js
