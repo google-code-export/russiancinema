@@ -27,6 +27,7 @@ Changed files:
   * [upd] css/rc_style_mov_pers_page.css
   * [upd] js/ruscinema.js
   * [upd] php/common.php
+  * [upd] php/locale.ru.php
   * [upd] php/queries.php
   * [upd] php/service.php
   * [upd] template/layout/footer.inc.htm
