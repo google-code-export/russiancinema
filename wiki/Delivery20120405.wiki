@@ -7,6 +7,7 @@
   * Issue 70 
   * Issue 79
   * Issue 80
+  * Issue 108
   * Issue 109
   * Issue 114 (production, March/25)
 
@@ -25,6 +26,7 @@
 {{{
 Changed files:
   * [upd] index.php
+  * [upd] css/rc_style.css
   * [upd] css/rc_style_mov_pers_page.css
   * [upd] js/ruscinema.js
   * [upd] php/common.php
