@@ -4,9 +4,10 @@
   * Issue 60
   * Issue 65 (production, mid of Feb)
   * Issue 70 
+  * Issue 79
   * Issue 109
   * Issue 114 (production, March/25)
-  * Issue 79
+
 ===High===
   * Issue 107 
 ===Medium===
