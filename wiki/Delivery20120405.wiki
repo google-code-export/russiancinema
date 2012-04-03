@@ -1,0 +1,46 @@
+= Delivery 2012-04-05 (xx-xx) =
+
+===Critical===
+  * Issue 32
+  * Issue 60
+  * Issue 65 (production, mid of Feb)
+  * Issue 70 
+  * Issue 79
+  * Issue 109
+  * Issue 114 (production, March/25)
+
+===High===
+  * Issue 107 
+===Medium===
+  * Issue 67
+  * Issue 93
+  * Issue 103
+  * Issue 99
+  * Issue 100
+  * Issue 106 
+  * Issue 115
+===Low===
+
+{{{
+Changed files:
+  * [upd] index.php
+  * [upd] css/rc_style_mov_pers_page.css
+  * [upd] js/ruscinema.js
+  * [upd] php/common.php
+  * [upd] php/queries.php
+  * [upd] php/service.php
+  * [upd] template/layout/footer.inc.htm
+  * [upd] template/layout/biblio.inc.htm
+  * [upd] template/layout/photo_gallery_element.inc.htm
+  * [upd] template/layout/photo_gallery_popup_element.inc.htm
+  * [upd] template/layout/prizes.inc.htm
+  * [upd] template/layout/text_element.inc.htm
+  * [upd] template/sections/section_1_1.htm
+  * [upd] template/sections/section_2_1.htm
+}}}
+
+{{{
+Database changes:
+
+
+}}}
