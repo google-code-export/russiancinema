@@ -9,6 +9,7 @@
   * Issue 80
   * Issue 108
   * Issue 109
+  * Issue 111
   * Issue 114 (production, March/25)
 
 ===High===
