@@ -37,6 +37,8 @@ Changed files:
   * [upd] php/locale.ru.php
   * [upd] php/queries.php
   * [upd] php/service.php
+  * [upd] StarCMS/js/admin.js
+  * [upd] StarCMS/service.php
   * [upd] template/layout/footer.inc.htm
   * [upd] template/layout/biblio.inc.htm
   * [upd] template/layout/photo_gallery_element.inc.htm
@@ -45,6 +47,7 @@ Changed files:
   * [upd] template/layout/text_element.inc.htm
   * [upd] template/sections/section_1_1.htm
   * [upd] template/sections/section_2_1.htm
+
 }}}
 
 {{{
