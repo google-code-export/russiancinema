@@ -15,8 +15,10 @@
   * Issue 108
   * Issue 111
   * Issue 112
+
 ===Medium===
   * Issue 67
+  * Issue 88
   * Issue 92
   * Issue 93
   * Issue 99
@@ -40,6 +42,8 @@ Changed files:
   * [upd] php/queries.php
   * [upd] php/service.php
   * [upd] StarCMS/js/admin.js
+  * [upd] StarCMS/enc_status.php
+  * [upd] StarCMS/enc_status_all_pers.php
   * [upd] StarCMS/service.php
   * [upd] template/layout/footer.inc.htm
   * [upd] template/layout/biblio.inc.htm
