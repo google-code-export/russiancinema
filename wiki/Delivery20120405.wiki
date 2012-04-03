@@ -59,5 +59,6 @@ Changed files:
 {{{
 Database changes:
 
+e_movies > movie_name add FULLTEXT index
 
 }}}
