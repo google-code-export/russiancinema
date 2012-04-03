@@ -18,10 +18,11 @@
 ===Medium===
   * Issue 67
   * Issue 93
-  * Issue 103
   * Issue 99
   * Issue 100
+  * Issue 103
   * Issue 106 
+  * Issue 113
   * Issue 115
 ===Low===
 
