@@ -1,6 +1,7 @@
 = Delivery 2012-04-05 (xx-xx) =
 
 ===Critical===
+  * Issue 32
   * Issue 60
   * Issue 65 (production, mid of Feb)
   * Issue 70 
