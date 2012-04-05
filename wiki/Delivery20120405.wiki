@@ -76,4 +76,8 @@ ALTER TABLE  `db_seance_7`.`e_persons` ADD FULLTEXT  `person_lastname_name_fullt
 `person_name`
 )
 
+ALTER TABLE  `e_depts_texts` ADD FULLTEXT  `text_header_fulltext` (
+`text_header`
+)
+
 }}}
