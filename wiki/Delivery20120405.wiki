@@ -28,6 +28,8 @@
   * Issue 106 
   * Issue 113
   * Issue 115
+  * ---------
+  * Issue 25
 ===Low===
 
 {{{
