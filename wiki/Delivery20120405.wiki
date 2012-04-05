@@ -59,6 +59,16 @@ Changed files:
 {{{
 Database changes:
 
-e_movies > movie_name add FULLTEXT index
+ALTER TABLE `e_movies` ADD FULLTEXT  `movie_name_fulltext` (
+`movie_name`
+)
+
+ALTER TABLE  `e_persons` ADD FULLTEXT  `person_lastname_fulltext` (
+`person_lastname`
+)
+
+ALTER TABLE  `e_persons` ADD FULLTEXT  `person_name_fulltext` (
+`person_name`
+)
 
 }}}
