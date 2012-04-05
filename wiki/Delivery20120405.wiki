@@ -30,6 +30,7 @@
   * Issue 115
   * ---
   * Issue 25
+  * Issue 53
   * Issue 90
   * Issue 95
   * Issue 110
