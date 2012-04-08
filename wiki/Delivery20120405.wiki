@@ -81,7 +81,7 @@ ALTER TABLE  `e_persons` ADD FULLTEXT  `person_name_fulltext` (
 `person_name`
 )
 
-ALTER TABLE  `db_seance_7`.`e_persons` ADD FULLTEXT  `person_lastname_name_fulltext` (
+ALTER TABLE  `e_persons` ADD FULLTEXT  `person_lastname_name_fulltext` (
 `person_lastname` ,
 `person_name`
 )
