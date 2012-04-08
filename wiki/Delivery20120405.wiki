@@ -38,6 +38,9 @@
 
 {{{
 Changed files:
+
+  * [new] php/remotetypograf.php
+
   * [upd] index.php
   * [upd] video.php
   * [upd] css/rc_style.css
