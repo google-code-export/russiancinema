@@ -13,7 +13,6 @@
 ===High===
   * Issue 107 
   * Issue 108
-  * Issue 111
   * Issue 112
 
 ===Medium===
