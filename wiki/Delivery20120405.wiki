@@ -1,4 +1,4 @@
-= Delivery 2012-04-05 (xx-xx) =
+= Delivery 2012-04-08 (23-30) =
 
 ===Critical===
   * Issue 32
@@ -48,6 +48,7 @@ Changed files:
   * [upd] php/queries.php
   * [upd] php/service.php
   * [upd] StarCMS/js/admin.js
+  * [upd] StarCMS/main.js
   * [upd] StarCMS/enc_status.php
   * [upd] StarCMS/enc_status_all_pers.php
   * [upd] StarCMS/service.php
