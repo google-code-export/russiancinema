@@ -48,7 +48,7 @@ Changed files:
   * [upd] php/queries.php
   * [upd] php/service.php
   * [upd] StarCMS/js/admin.js
-  * [upd] StarCMS/main.js
+  * [upd] StarCMS/main.php
   * [upd] StarCMS/enc_status.php
   * [upd] StarCMS/enc_status_all_pers.php
   * [upd] StarCMS/service.php
