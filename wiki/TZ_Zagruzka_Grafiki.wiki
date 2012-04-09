@@ -1,12 +1,8 @@
 ===1. Страница загрузки изображений на сервер===
 
-----
-
 http://test.russiancinema.ru/admin/doupload.php?dir=movies
 
 http://test.russiancinema.ru/admin/doupload.php?dir=persons
-
-----
 
 *Что нужно сделать:*
 
@@ -24,23 +20,15 @@ http://test.russiancinema.ru/admin/doupload.php?dir=movies&let=%D3
 
 ----
 
-----
-
 ===2. Страница фотографий элемента===
 
-----
-
 http://test.russiancinema.ru/admin/photos.php?e_dept_id=2&e_element_id=20631
-
-----
 
 *Что нужно сделать:*
 
 2.1. Drag&Drop для изменения порядка изображений.
 
 2.2. После того как изменён комментарий к изображению, пользователь должен попадать на предыдущую страницу. В данном случае — страницу фотографий элемента. Смотри также пункт 1.5.
-
-----
 
 ----
 
