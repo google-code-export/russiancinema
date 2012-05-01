@@ -1,0 +1,22 @@
+= Delivery 2012-04-09 (01-00) =
+
+===Critical===
+
+===High===
+
+===Medium===
+
+===Low===
+
+{{{
+Changed files:
+
+  * [new] php/remotetypograf.php
+
+}}}
+
+{{{
+Database changes:
+
+
+}}}
