@@ -7,10 +7,12 @@
 ===Medium===
 
 ===Low===
+ * Issue 45
 
 {{{
 Changed files:
 
+  * [upd] php/StarCMS/enc_status.php
   * [upd] php/StarCMS/xp_copy_text.php
 
 }}}
