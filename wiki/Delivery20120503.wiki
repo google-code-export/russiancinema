@@ -11,7 +11,7 @@
 {{{
 Changed files:
 
-  * [new] php/remotetypograf.php
+  * [upd] php/StarCMS/xp_copy_text.php
 
 }}}
 
