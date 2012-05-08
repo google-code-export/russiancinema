@@ -9,10 +9,13 @@
 ===Low===
  * Issue 45
 
+- добавлено отображение названия текущей БД в админке
+
 {{{
 Changed files:
 
   * [upd] php/StarCMS/enc_status.php
+  * [upd] php/StarCMS/main.php
   * [upd] php/StarCMS/xp_copy_text.php
 
 }}}
