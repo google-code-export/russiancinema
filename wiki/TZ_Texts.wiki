@@ -1,7 +1,8 @@
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * тексты персоналии делятся на 3 типа:
+    * просто тексты
+    * "о нем"
+    * "о его работах"
+  * тексты фильма делятся на ??? типа:
+    * ???
+  * для каждого типа текста есть свой набор тэгов, которые можно использовать для индексации
