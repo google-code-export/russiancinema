@@ -7,6 +7,8 @@
 ===Medium===
  * Issue 24
  * Issue 90
+ * Issue 97
+
 ===Low===
  * Issue 45
 
@@ -15,6 +17,8 @@
 {{{
 Changed files:
 
+  * [upd] index.php
+  * [upd] css/rc_style_search.css
   * [upd] php/common.php
   * [upd] StarCMS/enc_status.php
   * [upd] StarCMS/main.php
