@@ -5,6 +5,7 @@
 ===High===
  * Issue 111
 ===Medium===
+ * Issue 24
  * Issue 90
 ===Low===
  * Issue 45
