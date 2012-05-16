@@ -44,5 +44,8 @@ ALTER TABLE  `e_movies` ADD  `movie_has_annotation` TINYINT( 1 ) NULL DEFAULT NU
 
 ALTER TABLE  `e_movies` ADD  `movie_first_page_annotation` TEXT NULL AFTER  `movie_project_comment`
 
+ALTER TABLE  `e_movies` ADD  `movie_first_page_ann_author` TEXT NULL AFTER  `movie_first_page_annotation`
+
+
 
 }}}
