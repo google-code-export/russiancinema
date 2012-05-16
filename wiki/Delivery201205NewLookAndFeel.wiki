@@ -39,4 +39,7 @@ INSERT INTO `e_sections` (`section_id`, `section_name`, `section_dept`, `section
 (6, 'Организации', 3, 0, 1),
 (7, 'О сайте', 10, 0, 1);
 
+
+ALTER TABLE  `e_movies` ADD  `movie_has_annotation` TINYINT( 1 ) NULL DEFAULT NULL AFTER  `movie_include_demo2`
+
 }}}
