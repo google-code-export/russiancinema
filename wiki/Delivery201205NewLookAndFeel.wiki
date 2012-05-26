@@ -46,9 +46,9 @@ ALTER TABLE  `e_movies` ADD  `movie_first_page_annotation` TEXT NULL AFTER  `mov
 
 ALTER TABLE  `e_movies` ADD  `movie_first_page_ann_author` TEXT NULL AFTER  `movie_first_page_annotation`
 
-ALTER TABLE  `e_depts_texts` ADD  `is_about_person` TINYINT( 1 ) NULL AFTER  `tag_id`
+ALTER TABLE  `e_depts_texts` ADD  `is_about_person` TINYINT( 1 ) NOT NULL DEFAULT  '0' AFTER  `tag_id`
 
-ALTER TABLE  `e_depts_texts` ADD  `is_about_person_work` TINYINT( 1 ) NULL AFTER  `is_about_person`
+ALTER TABLE  `e_depts_texts` ADD  `is_about_person_work` TINYINT( 1 ) NOT NULL DEFAULT  '0' AFTER  `is_about_person`
 
 
 
