@@ -50,6 +50,7 @@ ALTER TABLE  `e_depts_texts` ADD  `is_about_person` TINYINT( 1 ) NOT NULL DEFAUL
 
 ALTER TABLE  `e_depts_texts` ADD  `is_about_person_work` TINYINT( 1 ) NOT NULL DEFAULT  '0' AFTER  `is_about_person`
 
+ALTER TABLE  `e_movies` ADD  `is_staging` TINYINT( 1 ) NOT NULL DEFAULT  '0' AFTER  `movie_has_annotation`
 
 
 }}}
