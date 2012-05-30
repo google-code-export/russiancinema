@@ -52,5 +52,7 @@ ALTER TABLE  `e_depts_texts` ADD  `is_about_person_work` TINYINT( 1 ) NOT NULL D
 
 ALTER TABLE  `e_movies` ADD  `is_staging` TINYINT( 1 ) NOT NULL DEFAULT  '0' AFTER  `movie_has_annotation`
 
+ALTER TABLE  `e_persons` ADD  `person_resume` VARCHAR( 100 ) CHARACTER SET cp1251 COLLATE cp1251_bin NULL AFTER  `person_bio`
+
 
 }}}
