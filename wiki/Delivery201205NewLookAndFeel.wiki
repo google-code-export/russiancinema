@@ -57,4 +57,10 @@ ALTER TABLE  `e_persons` ADD  `person_resume` VARCHAR( 100 ) CHARACTER SET cp125
 ALTER TABLE  `e_photos` ADD  `photo_type` TINYINT( 1 ) NOT NULL DEFAULT  '0' AFTER  `big_link`
 
 
+CREATE TABLE IF NOT EXISTS `e_annotations` (
+  `movie_id` int(10) unsigned NOT NULL default '0',
+  `annotation_order` int(10) unsigned NOT NULL default '0',
+  KEY `e_annotations_key` (`movie_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=cp1251;
+
 }}}
