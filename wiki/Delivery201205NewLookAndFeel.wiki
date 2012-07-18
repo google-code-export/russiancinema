@@ -63,4 +63,6 @@ CREATE TABLE IF NOT EXISTS `e_annotations` (
   KEY `e_annotations_key` (`movie_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=cp1251;
 
+ALTER TABLE  `e_sections` ADD  `section_url_part` VARCHAR( 100 ) NOT NULL AFTER  `section_dept`
+
 }}}
