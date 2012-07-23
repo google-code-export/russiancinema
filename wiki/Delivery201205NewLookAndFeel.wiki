@@ -65,4 +65,12 @@ CREATE TABLE IF NOT EXISTS `e_annotations` (
 
 ALTER TABLE  `e_sections` ADD  `section_url_part` VARCHAR( 100 ) NOT NULL AFTER  `section_dept`
 
+CREATE TABLE IF NOT EXISTS `e_tags_sets` (
+  `set_id` int(10) unsigned NOT NULL auto_increment,
+  `tag_id` int(10) NOT NULL,
+  `tag_order` int(11) default '1',
+  PRIMARY KEY  (`set_id`,`tag_id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=cp1251 AUTO_INCREMENT=0 ;
+
+
 }}}
