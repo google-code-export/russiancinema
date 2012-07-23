@@ -54,7 +54,7 @@ ALTER TABLE  `e_movies` ADD  `movie_is_staging` TINYINT( 1 ) NOT NULL DEFAULT  '
 
 ALTER TABLE  `e_persons` ADD  `person_resume` VARCHAR( 100 ) CHARACTER SET cp1251 COLLATE cp1251_bin NULL AFTER  `person_bio`
 
-ALTER TABLE  `e_photos` ADD  `photo_type` TINYINT( 1 ) NOT NULL DEFAULT  '0' AFTER  `big_link`
+ALTER TABLE  `e_photos` ADD  `photo_type` TINYINT( 1 ) NOT NULL DEFAULT  '1' AFTER  `big_link`
 
 
 CREATE TABLE IF NOT EXISTS `e_annotations` (
